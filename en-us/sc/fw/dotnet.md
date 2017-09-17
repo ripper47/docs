@@ -9,7 +9,7 @@ The namespace for interoperability layer is divided into `Neo.SmartContract.Fram
 | Namespace | description |
 | --------- | ----------- |
 | [Neo](dotnet/neo.md) | The NEO namespace is the API provided by the NEO blockchain, providing a way to access the blockchain data and manipulate the persistent store. |
-| [System](dotnet/system.md) | System namespace is the API provided by the Smart Contract Execution Engine (NeoVM), which provides access to the execution environment. |
+| [System](dotnet/System.md) | System namespace is the API provided by the Smart Contract Execution Engine (NeoVM), which provides access to the execution environment. |
 
 ## Framework Methods
 
